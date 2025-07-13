@@ -1,5 +1,6 @@
 {
   "appName": "AI Agent Crawling Data Platform",
+  "description": "Được phát triển bởi nhóm Virtual Streamers",
   "navbar": {
     "title": "Nền tảng thu thập và phân tích dữ liệu tích hợp AI Agents",
     "logo": "Virtual Streamers"
