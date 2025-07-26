@@ -10,14 +10,15 @@ export async function generateMetadata({
 }) {
   const message: AbstractIntlMessages = await getMessages({ locale });
   const title = message.appName;
-  const description = message.description
+  const description = message.description;
   return {
     title,
-    description
+    description,
   };
 }
 
 export default function Home() {
+  // Add explaination
   return (
     <div>
       <Navbar></Navbar>
