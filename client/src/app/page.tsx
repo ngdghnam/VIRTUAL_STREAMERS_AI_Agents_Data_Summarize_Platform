@@ -19,6 +19,7 @@ export async function generateMetadata({
 
 export default function Home() {
   // Add explaination
+  // Push code for hnam/dev
   return (
     <div>
       <Navbar></Navbar>
