@@ -10,11 +10,11 @@ export const API = {
     }
 }
 
-export const post = (url: string, data: {}) => {
+export const  post = async (url: string, data: {}) => {
     return axios.post(url, data)
 }
 
-export const put = (url: string, data: {}) => {
+export const put = async (url: string, data: {}) => {
     return axios.put(url, data)
 }
 

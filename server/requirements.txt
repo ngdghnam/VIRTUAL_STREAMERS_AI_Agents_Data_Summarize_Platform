@@ -2,3 +2,9 @@ fastapi[all]
 uvicorn
 alembic
 redis
+random-ip-generator
+httpx
+requests
+googlesearch-python
+google-search
+beautifulsoup4
